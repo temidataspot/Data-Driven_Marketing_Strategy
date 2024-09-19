@@ -24,5 +24,6 @@ healthcare facilities.
 - Publish to Power BI Service
   
 The database used for this project is from CMS (Center for Medicare and Medicaid Services).
+
 Read detailed analysis on my [Medium Page](https://medium.com/@temiloluwa.jokotola/data-driven-marketing-strategy-identifying-healthcare-facility-prospects-using-sql-and-power-bi-088395edad6e)
 ![image](https://github.com/user-attachments/assets/0a8de0c0-90a8-40b4-a23f-93ad1ecb9f0d)
