@@ -2,7 +2,7 @@
 
 This project presents an analytical dashboard and data report exploring workforce patterns and marketing insights for **CL-Health**, a healthcare staffing company that connects medical professionals—both contractual and permanent—with healthcare facilities across the United States.
 
-![Dashboard Interaction]([8fde3c74-c504-49c8-9d70-0735529097a2.png](https://app.powerbi.com/view?r=eyJrIjoiNGRkYzZhZTYtMDE5Zi00ODkyLTk3ZTAtM2JkNjA5ZTgwNTg1IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9))
+[Interact with the Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiNGRkYzZhZTYtMDE5Zi00ODkyLTk3ZTAtM2JkNjA5ZTgwNTg1IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
 
 ---
 
