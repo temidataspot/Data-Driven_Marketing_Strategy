@@ -26,4 +26,5 @@ healthcare facilities.
 The database used for this project is from CMS (Center for Medicare and Medicaid Services).
 
 Read detailed analysis on my [Medium Page](https://medium.com/@temiloluwa.jokotola/data-driven-marketing-strategy-identifying-healthcare-facility-prospects-using-sql-and-power-bi-088395edad6e)
+Interact with the dashboard here: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGRkYzZhZTYtMDE5Zi00ODkyLTk3ZTAtM2JkNjA5ZTgwNTg1IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
 ![image](https://github.com/user-attachments/assets/0a8de0c0-90a8-40b4-a23f-93ad1ecb9f0d)
